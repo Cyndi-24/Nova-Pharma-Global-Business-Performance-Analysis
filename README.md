@@ -51,7 +51,7 @@ The dataset was prepared in Power Query to improve data quality and consistency 
 The model was structured around the Fact_Sales table, which contains the transactional sales data. It was connected to the relevant dimension tables using primary key–foreign key relationships, allowing the dimensions to filter and provide context to the sales transactions. A separate Targets table was also incorporated to support actual-versus-target analysis.
 
 
-   
+
 ## Dashboard Analysis
 
 The Power BI report is structured across four pages, moving from an overall view of business performance to growth and profitability, commercial performance, and operational outcomes.
@@ -59,3 +59,23 @@ The Power BI report is structured across four pages, moving from an overall view
 ### Business Overview
 
 Provides a high-level view of revenue and profit contribution across products, countries, and regions, establishing the overall performance baseline for the analysis.
+
+
+
+### Executive Growth & Profitability
+
+Examines how revenue and profit changed over time, alongside profit margins, target achievement, and product growth, to assess whether overall business growth translated into stronger profitability and progress toward targets.
+
+
+
+### Regional & Commercial Performance
+
+Examines profitability and commercial performance across regions, products, and customer segments, with a focus on profit margins, discounts, rebates, and revenue leakage.
+
+
+
+### Marketing & Supply Chain Outcome
+
+Evaluates marketing efficiency and operational performance through campaign ROI, stock-out exposure, sales-channel contribution, and sales representative performance.
+
+
