@@ -36,3 +36,11 @@ The analysis focuses on answering the following questions:
 The analysis was conducted using a pharmaceutical business dataset covering multiple areas of business performance, including sales, products, regions, customers, marketing activities, sales channels, and supply chain operations.
 
 The dataset contains records across 2024 and 2025, allowing performance to be examined across time as well as across different commercial and operational dimensions.
+
+## Dashboard Analysis
+
+The Power BI report is structured across four pages, moving from an overall view of business performance to growth and profitability, commercial performance, and operational outcomes.
+
+### Business Overview
+
+Provides a high-level view of revenue and profit contribution across products, countries, and regions, establishing the overall performance baseline for the analysis.
