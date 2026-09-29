@@ -23,3 +23,11 @@ The analysis focuses on answering the following questions:
 - How effectively is marketing spend translating into campaign returns?
 - Where is stock-out exposure concentrated, and what is its potential revenue impact?
 - How is profit contribution distributed across sales channels and sales representatives?
+
+
+  ## Tools & Skills Used
+
+- **Power BI** — data modelling, analysis, dashboard development and visualization
+- **Power Query** — data preparation and transformation
+- **DAX** — calculated measures, KPIs, growth metrics and performance analysis
+- **Data Visualization & Storytelling** — translating business metrics into an executive four-page reporting structure
