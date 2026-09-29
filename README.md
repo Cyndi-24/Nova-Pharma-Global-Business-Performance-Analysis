@@ -1,6 +1,6 @@
 # Nova Pharma Global — Business Performance Analysis
 
-## Introduction
+## Project Overview 
 
 This project analyzes Nova Pharma Global's business performance across revenue, profitability, regional and product performance, marketing, and supply chain operations. The analysis was developed in Power BI to provide a structured view of business performance, identify important trends and performance gaps, and support data-driven decision-making.
 
@@ -11,7 +11,7 @@ Nova Pharma Global operates across multiple regions, products, customer segments
 This analysis was developed to provide a consolidated view of these areas and identify patterns, performance gaps, and areas that may require further business attention.
 
 
-## Analysis Objectives
+## Business Questions
 
 The analysis focuses on answering the following questions:
 
@@ -24,10 +24,15 @@ The analysis focuses on answering the following questions:
 - Where is stock-out exposure concentrated, and what is its potential revenue impact?
 - How is profit contribution distributed across sales channels and sales representatives?
 
-
   ## Tools & Skills Used
-
+  
 - **Power BI** — data modelling, analysis, dashboard development and visualization
 - **Power Query** — data preparation and transformation
 - **DAX** — calculated measures, KPIs, growth metrics and performance analysis
 - **Data Visualization & Storytelling** — translating business metrics into an executive four-page reporting structure
+
+## Data Source
+
+The analysis was conducted using a pharmaceutical business dataset covering multiple areas of business performance, including sales, products, regions, customers, marketing activities, sales channels, and supply chain operations.
+
+The dataset contains records across 2024 and 2025, allowing performance to be examined across time as well as across different commercial and operational dimensions.
