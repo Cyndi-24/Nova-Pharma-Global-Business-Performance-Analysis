@@ -37,6 +37,21 @@ The analysis was conducted using a pharmaceutical business dataset covering mult
 
 The dataset contains records across 2024 and 2025, allowing performance to be examined across time as well as across different commercial and operational dimensions.
 
+## Data Preparation and Modelling
+
+The dataset was prepared in Power Query to improve data quality and consistency before analysis. Key preparation steps included:
+
+- Promoting headers and assigning appropriate data types across tables.
+- Trimming and cleaning text fields across customer, product, region, market, and sales representative tables.
+- Identifying and removing duplicate records from dimension tables.
+- Standardizing and rounding numerical fields such as revenue, profit, rebates, and discounts.
+- Recalculating missing discount values in the Fact Sales table using available sales fields, while retaining existing valid discount values.
+- 
+##  Data Modelling
+The model was structured around the Fact_Sales table, which contains the transactional sales data. It was connected to the relevant dimension tables using primary key–foreign key relationships, allowing the dimensions to filter and provide context to the sales transactions. A separate Targets table was also incorporated to support actual-versus-target analysis.
+
+
+   
 ## Dashboard Analysis
 
 The Power BI report is structured across four pages, moving from an overall view of business performance to growth and profitability, commercial performance, and operational outcomes.
