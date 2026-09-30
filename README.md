@@ -60,13 +60,13 @@ The Power BI report is structured across four pages, moving from an overall view
 
 Provides a high-level view of revenue and profit contribution across products, countries, and regions, establishing the overall performance baseline for the analysis.
 
-![image alt](
+![image alt](https://github.com/Cyndi-24/Nova-Pharma-Global-Business-Performance-Analysis/blob/main/Nova%20Pharma%20global/Nova%20Pharmonava%20images/Bussiness_overview.png)
 
 ### Executive Growth & Profitability
 
 Examines how revenue and profit changed over time, alongside profit margins, target achievement, and product growth, to assess whether overall business growth translated into stronger profitability and progress toward targets.
 
-
+![image alt](
 
 ### Regional & Commercial Performance
 
