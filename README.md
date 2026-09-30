@@ -137,6 +137,4 @@ Profit contribution was well distributed across sales channels, with Retail Phar
 
 ## Conclusion
 
-The Nova Pharma analysis provides an integrated view of business performance across growth, profitability, commercial activity, marketing, and supply chain operations. The analysis highlights that strong overall growth does not necessarily translate into target achievement, and that performance varies across regions, products, and operational areas.
-
-By bringing these perspectives together, the dashboard supports more informed decisions around profitable growth, inventory availability, marketing allocation, and commercial performance.
+The analysis provides a consolidated view of Nova Pharma’s performance, highlighting opportunities to strengthen profitable growth, regional performance, marketing returns, commercial controls, and inventory availability.
