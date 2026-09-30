@@ -78,4 +78,36 @@ Examines profitability and commercial performance across regions, products, and 
 
 Evaluates marketing efficiency and operational performance through campaign ROI, stock-out exposure, sales-channel contribution, and sales representative performance.
 
+## Analytical Questions 
+
+### 1. What does the overall business performance look like across revenue, profit, regions, and products?
+
+Nova Pharma generated $486.39M in revenue at a 37.86% profit margin. Europe was the largest contributor to both revenue and profit, while Product 35 led cumulative revenue, showing where the strongest overall contributions came from.
+
+### 2. How is revenue and profit distributed across regions, products, and customer segments?
+
+Revenue and profit are more concentrated in the leading regions, particularly Europe, while customer-segment profit is comparatively balanced. Public, SME, and Enterprise customers contribute 35.22%, 33.92%, and 30.86% respectively, indicating that profitability is not heavily dependent on a single customer segment.
+
+### 3. How has business performance changed over time, and how does actual performance compare with targets?
+
+Revenue grew by 6.88% YoY, while profit increased by 6.07%, indicating positive business growth. However, target achievement remained at only 13.25%, showing a substantial gap between actual growth and planned performance.
+
+### 4. Which regions and products are driving growth and profitability?
+
+South America recorded the strongest improvement in profit margin, while the Middle East experienced the largest decline. At product level, Products 19 and 8 stood out with strong growth in both revenue and profit, making them key contributors to profitable growth.
+
+### 5. Where are commercial pressures such as discounts, rebates, and revenue leakage occurring?
+
+Europe recorded the highest absolute revenue leakage at $329.22K, while the Middle East recorded the lowest at $89.74K. However, Europe also has the largest revenue base, so absolute leakage alone does not indicate weaker performance. At product level, higher discounts did not consistently correspond with lower profit margins, suggesting that discounting alone does not explain differences in product profitability.
+
+
+### 6. How effectively is marketing spend translating into campaign returns?
+
+Marketing campaigns generated an average ROI of 2.39, but higher spending did not consistently translate into higher returns. Campaign 15 achieved the highest ROI of 3.78 on a marketing spend of $174.60K, showing that campaign effectiveness was not determined by spend level alone.
+
+
+### 7. Where is stock-out exposure concentrated, and what is its potential revenue impact?
+
+Stock-out exposure was highest in Oncology, followed by Diabetes and Pain. Products affected by stock-outs recorded a combined $18.87M gap between forecast and actual revenue, indicating potential revenue exposure rather than confirmed revenue lost directly to stock-outs.
+
 
