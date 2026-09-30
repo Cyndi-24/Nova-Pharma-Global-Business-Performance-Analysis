@@ -78,6 +78,8 @@ Examines profitability and commercial performance across regions, products, and 
 
 Evaluates marketing efficiency and operational performance through campaign ROI, stock-out exposure, sales-channel contribution, and sales representative performance.
 
+![image alt](https://github.com/Cyndi-24/Nova-Pharma-Global-Business-Performance-Analysis/blob/main/Nova%20Pharma%20global/Nova%20Pharmonava%20images/Marketing_supply_chain.png)
+
 ## Analytical Questions 
 
 ### 1. What does the overall business performance look like across revenue, profit, regions, and products?
