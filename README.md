@@ -72,7 +72,7 @@ Examines how revenue and profit changed over time, alongside profit margins, tar
 
 Examines profitability and commercial performance across regions, products, and customer segments, with a focus on profit margins, discounts, rebates, and revenue leakage.
 
-
+![image alt](https://github.com/Cyndi-24/Nova-Pharma-Global-Business-Performance-Analysis/blob/main/Nova%20Pharma%20global/Nova%20Pharmonava%20images/Regional_performance.png)
 
 ### Marketing & Supply Chain Outcome
 
