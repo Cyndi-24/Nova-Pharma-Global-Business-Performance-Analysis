@@ -110,4 +110,33 @@ Marketing campaigns generated an average ROI of 2.39, but higher spending did no
 
 Stock-out exposure was highest in Oncology, followed by Diabetes and Pain. Products affected by stock-outs recorded a combined $18.87M gap between forecast and actual revenue, indicating potential revenue exposure rather than confirmed revenue lost directly to stock-outs.
 
+### 8. How is profit contribution distributed across sales channels and sales representatives?
 
+Profit contribution was well distributed across sales channels, with Retail Pharmacy leading at 21.36% and Distributor contributing the lowest share at 18.91%. Sales representative performance showed greater variation, with Rep 17 generating the highest profit contribution at approximately $5.8M.
+
+## Recommendations
+
+- **Prioritize profitable growth products:** Support Products 19 and 8 with appropriate commercial resources, as both demonstrated strong revenue and profit growth.
+
+- **Strengthen performance in the Middle East:** Focus commercial efforts on improving margins in the region while protecting the margin gains recorded in South America.
+
+- **Prioritize inventory availability in high-exposure drug classes:** Give Oncology, Diabetes, and Pain greater priority in replenishment planning to reduce stock-out exposure and protect potential revenue.
+
+- **Prioritize higher-return marketing campaigns:** Direct future marketing budgets toward campaigns delivering stronger ROI, rather than allocating more resources based on spending levels alone.
+
+- **Strengthen revenue-leakage controls:** Closely monitor and reduce revenue leakage, particularly in Europe, while assessing leakage relative to regional revenue to account for differences in market size.
+
+  
+## Limitations
+
+- The stock-out revenue shortfall is an estimated exposure based on the gap between forecast and actual revenue for products that experienced stock-outs. It should not be interpreted as confirmed revenue lost directly because of stock-outs.
+
+- The analysis covers the available 2024–2025 period, limiting the ability to assess longer-term performance trends beyond these two years.
+
+- The analysis identifies performance patterns and relationships within the available data, but some underlying business drivers—such as the reasons behind regional margin changes or differences in campaign performance—cannot be determined from the available variables alone.
+
+## Conclusion
+
+The Nova Pharma analysis provides an integrated view of business performance across growth, profitability, commercial activity, marketing, and supply chain operations. The analysis highlights that strong overall growth does not necessarily translate into target achievement, and that performance varies across regions, products, and operational areas.
+
+By bringing these perspectives together, the dashboard supports more informed decisions around profitable growth, inventory availability, marketing allocation, and commercial performance.
