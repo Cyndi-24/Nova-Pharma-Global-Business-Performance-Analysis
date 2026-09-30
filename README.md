@@ -50,7 +50,7 @@ The dataset was prepared in Power Query to improve data quality and consistency 
 ##  Data Modelling
 The model was structured around the Fact_Sales table, which contains the transactional sales data. It was connected to the relevant dimension tables using primary key–foreign key relationships, allowing the dimensions to filter and provide context to the sales transactions. A separate Targets table was also incorporated to support actual-versus-target analysis.
 
-
+![image alt](https://github.com/Cyndi-24/Nova-Pharma-Global-Business-Performance-Analysis/blob/main/Nova%20Pharma%20global/Nova%20Pharmonava%20images/Data_modelling.png)
 
 ## Analysis and Visualization 
 
@@ -60,7 +60,7 @@ The Power BI report is structured across four pages, moving from an overall view
 
 Provides a high-level view of revenue and profit contribution across products, countries, and regions, establishing the overall performance baseline for the analysis.
 
-
+![image alt](
 
 ### Executive Growth & Profitability
 
