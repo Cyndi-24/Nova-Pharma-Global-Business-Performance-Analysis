@@ -1,4 +1,4 @@
-# Nova Pharma Global — Business Performance Analysis
+# Nova Pharma Global - Business Performance Analysis
 
 ## Project Overview 
 
@@ -66,7 +66,7 @@ Provides a high-level view of revenue and profit contribution across products, c
 
 Examines how revenue and profit changed over time, alongside profit margins, target achievement, and product growth, to assess whether overall business growth translated into stronger profitability and progress toward targets.
 
-![image alt](
+![image alt](https://github.com/Cyndi-24/Nova-Pharma-Global-Business-Performance-Analysis/blob/main/Nova%20Pharma%20global/Nova%20Pharmonava%20images/Executive_Growth.png)
 
 ### Regional & Commercial Performance
 
