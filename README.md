@@ -52,7 +52,7 @@ The model was structured around the Fact_Sales table, which contains the transac
 
 
 
-## Dashboard Analysis
+## Analysis and Visualization 
 
 The Power BI report is structured across four pages, moving from an overall view of business performance to growth and profitability, commercial performance, and operational outcomes.
 
